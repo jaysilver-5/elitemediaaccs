@@ -577,7 +577,7 @@ export default function HomePage() {
                   <p className="text-[11px] text-slate-400">
                     Prefer email or WhatsApp? You can also reach us via{" "}
                     <span className="font-semibold text-blue-300">
-                      hello@elitemediaaccs.com
+                      elitesaccsmedia@gmail.com
                     </span>
                     .
                   </p>
