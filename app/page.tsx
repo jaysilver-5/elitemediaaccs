@@ -589,7 +589,7 @@ export default function HomePage() {
       className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-[11px] text-slate-200 hover:border-blue-400/60"
     >
       <span className="text-slate-400">Phone:</span>
-      <span className="font-semibold text-white">+234 XXX XXX XXXX</span>
+      <span className="font-semibold text-white">+234 814 589 0418</span>
     </a>
 
 
