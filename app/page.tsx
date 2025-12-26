@@ -574,13 +574,43 @@ export default function HomePage() {
                   >
                     Send message
                   </button>
-                  <p className="text-[11px] text-slate-400">
-                    Prefer email or WhatsApp? You can also reach us via{" "}
-                    <span className="font-semibold text-blue-300">
-                      elitesaccsmedia@gmail.com
-                    </span>
-                    .
-                  </p>
+                  <div className="text-[11px] text-slate-400">
+  <p>
+    Prefer email or WhatsApp? Reach us via{" "}
+    <span className="font-semibold text-blue-300">
+      elitesaccsmedia@gmail.com
+    </span>
+    .
+  </p>
+
+  <div className="mt-3 flex flex-wrap gap-2">
+    <a
+      href="tel:+234XXXXXXXXXX"
+      className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-[11px] text-slate-200 hover:border-blue-400/60"
+    >
+      <span className="text-slate-400">Phone:</span>
+      <span className="font-semibold text-white">+234 XXX XXX XXXX</span>
+    </a>
+
+    <a
+      href="https://wa.me/234XXXXXXXXXX"
+      target="_blank"
+      rel="noreferrer"
+      className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-[11px] text-slate-200 hover:border-emerald-400/60"
+    >
+      <span className="text-slate-400">WhatsApp:</span>
+      <span className="font-semibold text-white">Chat now</span>
+    </a>
+
+    <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-[11px] text-slate-200">
+      <span className="text-slate-400">Address:</span>
+      <span className="font-semibold text-white">
+        Your office address here
+      </span>
+    </div>
+  </div>
+</div>
+
                 </div>
               </form>
             </div>
