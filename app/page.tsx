@@ -575,32 +575,32 @@ export default function HomePage() {
                     Send message
                   </button>
                   <div className="text-[11px] text-slate-400">
-  <p>
-    Prefer email or WhatsApp? Reach us via{" "}
-    <span className="font-semibold text-blue-300">
-      elitesaccsmedia@gmail.com
-    </span>
-    .
-  </p>
-
-  <div className="mt-3 flex flex-wrap gap-2">
-    <a
-      href="tel:++234 814 589 0418"
-      className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-[11px] text-slate-200 hover:border-blue-400/60"
-    >
-      <span className="text-slate-400">Phone:</span>
-      <span className="font-semibold text-white">+234 814 589 0418</span>
-    </a>
-
-
-    <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-[11px] text-slate-200">
-      <span className="text-slate-400">Address:</span>
-      <span className="font-semibold text-white">
-        18 Kehinde Odusanya St, Alimosho 102213, Lagos, Nigeria
-      </span>
-    </div>
-  </div>
-</div>
+                    <p>
+                      Prefer email or WhatsApp? Reach us via{" "}
+                      <span className="font-semibold text-blue-300">
+                        elitesaccsmedia@gmail.com
+                      </span>
+                      .
+                    </p>
+                  
+                    <div className="mt-3 flex flex-wrap gap-2">
+                      <a
+                        href="tel:++234 814 589 0418"
+                        className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-[11px] text-slate-200 hover:border-blue-400/60"
+                      >
+                        <span className="text-slate-400">Phone:</span>
+                        <span className="font-semibold text-white">+234 814 589 0418</span>
+                      </a>
+                  
+                  
+                      <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-[11px] text-slate-200">
+                        <span className="text-slate-400">Address:</span>
+                        <span className="font-semibold text-white">
+                          18 Kehinde Odusanya St, Alimosho 102213, Lagos, Nigeria
+                        </span>
+                      </div>
+                    </div>
+                  </div>
 
                 </div>
               </form>
